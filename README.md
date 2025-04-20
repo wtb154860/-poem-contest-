@@ -1,1 +1,1 @@
-# -poem-contest-
+# poem-contest
